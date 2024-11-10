@@ -4740,9 +4740,6 @@ ELSE
 ENDIF
 
 
-PRINT*,' Codé par : Erwan BENHENOU © et Rémy BOISSIN ™ '
-
-
 
 !PROCEDURE
 
